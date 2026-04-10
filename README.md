@@ -1,4 +1,5 @@
-HUGE credit to @@RA3YAA for the Byler Art used in this skin! (https://x.com/RA3YAA/status/2042414903722467386?s=20)
+HUGE credit to @RA3YAA for the Byler Art used in this skin! 
+(https://x.com/RA3YAA/status/2042414903722467386?s=20)
 
 If you have any feedback or run into any issues with the skin, please message me on twitter! (same username)
 
