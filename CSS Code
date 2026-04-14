@@ -99,14 +99,14 @@ a:focus {
 #outer.wrapper {
   background: #0b1120;
   padding-top: 0;
-  background-image: url("https://i.postimg.cc/0jDryXS0/blue-plaid-tile.jpg");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Talk-to-me-Sweet-AO3-Skin/refs/heads/main/blue-plaid-tile.jpg");
   background-size: 30.7% auto;
   background-repeat: repeat;
   background-position: center top;
 }
 
 #header {
-  background-image: url("https://i.postimg.cc/7hMQDDKL/byler-art-by-ra3yaa.jpg");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Talk-to-me-Sweet-AO3-Skin/refs/heads/main/byler-art-by-ra3yaa.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 30px;
@@ -632,7 +632,7 @@ ul.work.navigation.actions li button:hover,
 
 ul.work.navigation.actions {
   padding-top: 50px;
-  background: url("https://i.postimg.cc/vZrSyVvr/i-miss-clouds-yellow-clipart.png") no-repeat center top;
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Talk-to-me-Sweet-AO3-Skin/refs/heads/main/i-miss-clouds-yellow-clipart.png") no-repeat center top;
   background-size: 200px;
 }
 
@@ -653,7 +653,7 @@ p.kudos::before {
   transform: translateX(-50%);
   width: 180px;
   height: 180px;
-  background: url("https://i.postimg.cc/Zqj7Bz24/crazy-together-clipart.png") no-repeat center center !important;
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Talk-to-me-Sweet-AO3-Skin/refs/heads/main/crazy-together-clipart.png") no-repeat center center !important;
   background-size: contain !important;
   display: block !important;
   z-index: 1;
@@ -696,7 +696,7 @@ dd.kudos img,
   transform: translateX(-50%);
   width: 140px;
   height: 140px;
-  background: url("https://i.postimg.cc/Zqj7Bz24/crazy-together-clipart.png") no-repeat center center !important;
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Talk-to-me-Sweet-AO3-Skin/refs/heads/main/crazy-together-clipart.png") no-repeat center center !important;
   background-size: contain !important;
 }
 
